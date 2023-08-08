@@ -1,0 +1,19 @@
+multiplayer
+	if (keyIsDown(87)){
+    yRaqueteOponente -= 10;
+  }
+  if (keyIsDown(83)){
+    yRaqueteOponente += 10;
+  }
+
+one player
+  velocidadeYOponente = yBolinha -yRaqueteOponente - raqueteComprimento / 2 - 30;
+  yRaqueteOponente += velocidadeYOponente + chanceDeErrar
+  calculaChanceDeErrar()
+  
+ if (keyIsDown(UP_ARROW)){
+    yRaqueteOponente -= 10;
+  }
+  if (keyIsDown(DOWN_ARROW)){
+    yRaqueteOponente += 10;
+  }
