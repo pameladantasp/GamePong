@@ -1,6 +1,6 @@
 # Game Pong
 
-![Badge Working](http://img.shields.io/static/v1?label=STATUS&message=WORKING&color=blue&style=for-the-badge)
+![Badge Done](http://img.shields.io/static/v1?label=STATUS&message=DONE&color=GREEN&style=for-the-badge)
 
 ### Desenvolvendo um jogo simples no primeiro contato com a linguagem JavaScript, me baseando nas aulas do curso Alura.
 
